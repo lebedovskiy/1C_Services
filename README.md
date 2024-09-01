@@ -17,7 +17,7 @@
 
 ### Учет реализованных услуг:
 
-![image](https://github.com/user-attachments/assets/19fa54ce-0ab2-49d5-b303-58f6bad6fb48)
+![image](https://github.com/user-attachments/assets/a6c4995b-6960-40e1-b169-6413adbd191d)
 
 ### Учет аренды и оплаты рабочих мест:
 
