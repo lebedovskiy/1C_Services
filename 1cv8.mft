@@ -1,0 +1,10 @@
+﻿Vendor=Лебедев Егор aka Lebedovskiy
+Name=Услуги
+Version=1.0.0.0
+AppVersion=8.3
+[Config1]
+Catalog=1Е:Услуги
+Source=1Cv8.cf
+[Config2]
+Catalog=1Е:Услуги (демо)
+Source=1Cv8.dt
