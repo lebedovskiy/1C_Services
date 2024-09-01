@@ -7,6 +7,10 @@
 
 ![image](https://github.com/user-attachments/assets/a34dedea-6325-41bb-ac30-dc35a6f71d7e)
 
+### Справочник услуг:
+
+![image](https://github.com/user-attachments/assets/cf5e1cb1-aa8f-4515-8051-a0f6d2104686)
+
 ### Реализован учет закупаемых материалов:
 
 ![image](https://github.com/user-attachments/assets/778e66fd-857c-427c-a145-9c40047983bf)
